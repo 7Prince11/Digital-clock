@@ -1,0 +1,7 @@
+@font-face {
+    font-family: "SecularOne";
+    src: url(../fonts/SecularOne-Regular.ttf);
+}
+body{
+    font-family : "SecularOne";
+}
